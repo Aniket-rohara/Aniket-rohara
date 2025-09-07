@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket-rohara
 - 👀 I’m interested in Electronics, Machine Learning, Marketing, Startups, etc
-- 🌱 I’m currently learning Firmware developement
+- 🌱 I’m currently learning GenAi developement
 - 💞️ I’m looking to collaborate on any kind of new and innovative projects or startups
 - 📫 You can reach me on aniketrohara@gmail.com
 - 😄 Pronouns: he/him
